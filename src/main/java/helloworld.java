@@ -1,5 +1,8 @@
 public class helloworld {
     public static void main(String args[]){
-        System.out.println("Hello, World!");
+        printWords();
     }
+    public static void printWords(){
+        System.out.println("I Love You!");
+    }git
 }
